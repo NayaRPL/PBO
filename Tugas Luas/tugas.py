@@ -8,7 +8,7 @@ if pilihan == 1:
     Luas_Persegi = sisi*sisi
     print("luas persegi adalah  ",Luas_Persegi)
 elif pilihan == 2:
-    pi=22/7
+    pi=3.14
     jari_jari=int(input("masukkan jari jari lingkaran "))
     luas_lingkaran = pi*(jari_jari**2)
     print("luas lingkaran adalah ", luas_lingkaran)
